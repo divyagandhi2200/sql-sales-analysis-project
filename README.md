@@ -1,22 +1,20 @@
 # sql-sales-analysis-project
 This repository contains a collection of SQL scripts demonstrating analysis of sales, profitability, customer behavior, and growth trends using CTEs, subqueries, and window functions.
 
-## 📌 Project Overview
-**This project analyzes retail transaction data using SQL Server to uncover actionable business insights related to revenue growth, profitability, customer segmentation, discount strategy, and product performance.
-The analysis goes beyond basic reporting by leveraging advanced SQL techniques such as Common Table Expressions (CTEs), subqueries, and window functions to solve real business problems.**
+## Project Overview
+This project analyzes retail transaction data using SQL Server to uncover actionable business insights related to revenue growth, profitability, customer segmentation, discount strategy, and product performance.
+The analysis goes beyond basic reporting by leveraging advanced SQL techniques such as Common Table Expressions (CTEs), subqueries, and window functions to solve real business problems.
 ---
 
-## 🛠 Tools & Technologies
+## Tools Used
 - SQL Server
-- SQL Server Management Studio (SSMS)
-- GitHub
 ---
 
-## 📊 Dataset
-Sample Superstore retail dataset containing 10,000+ transactions across multiple years, regions, product categories, and customer segments.
+## Dataset
+Sample Superstore retail dataset containing 10,000+ entries across multiple years, regions, product categories, and customer segments.
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Identify top-performing regions, categories, and products
 - Detect loss-making products and markets
 - Analyze the impact of discounts on profitability
@@ -25,7 +23,7 @@ Sample Superstore retail dataset containing 10,000+ transactions across multiple
 - Recommend data-driven business strategies
 ---
 
-## 🧠 Advanced SQL Concepts Used
+## Advanced SQL Concepts Used
 - Common Table Expressions (CTEs)
 - Nested Subqueries
 - Window Functions (`RANK`, `ROW_NUMBER`, `LAG`, `NTILE`)
@@ -35,8 +33,7 @@ Sample Superstore retail dataset containing 10,000+ transactions across multiple
 - Customer Segmentation
 ---
 
-## 🔍 Key Insights
-
+## Key Insights
 - United States significantly outperformed Canada in revenue and profit.
 - Technology category delivered the highest profit margin.
 - Furniture generated high sales but lowest profitability.
@@ -46,12 +43,10 @@ Sample Superstore retail dataset containing 10,000+ transactions across multiple
 - Revenue grew steadily from 2023 to 2026.
 ---
 
-## 💡 Business Recommendations
-
+## Business Recommendations
 - Limit routine discounts above 20%.
 - Reassess pricing/cost structure for Furniture products.
 - Expand focus on Technology products.
 - Improve strategy in loss-making states.
 - Retain and upsell high-value Consumer customers.
 ---
-*/
