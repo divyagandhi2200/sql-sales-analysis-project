@@ -1,12 +1,11 @@
 # sql-sales-analysis-project
-This repository contains a collection of SQL scripts demonstrating analysis of sales, profitability, customer behavior, and growth trends using CTEs, subqueries, and window functions.
 
 ## Project Overview
-This project analyzes retail transaction data using SQL Server to uncover actionable business insights related to revenue growth, profitability, customer segmentation, discount strategy, and product performance.
-The analysis goes beyond basic reporting by leveraging advanced SQL techniques such as Common Table Expressions (CTEs), subqueries, and window functions to solve real business problems.
+**This project analyzes retail transaction data using SQL Server to uncover actionable business insights related to revenue growth, profitability, customer segmentation, discount strategy, and product performance.
+The analysis goes beyond basic reporting by leveraging advanced SQL techniques such as Common Table Expressions (CTEs), subqueries, and window functions to solve real business problems.**
 ---
 
-## Tools Used
+## Tool
 - SQL Server
 ---
 
@@ -25,8 +24,7 @@ Sample Superstore retail dataset containing 10,000+ entries across multiple year
 
 ## Advanced SQL Concepts Used
 - Common Table Expressions (CTEs)
-- Nested Subqueries
-- Window Functions (`RANK`, `ROW_NUMBER`, `LAG`, `NTILE`)
+- Window Functions (`RANK`, `ROW_NUMBER`, `LAG`)
 - Aggregate Functions
 - Conditional Logic (`CASE WHEN`)
 - Profit Margin Analysis
