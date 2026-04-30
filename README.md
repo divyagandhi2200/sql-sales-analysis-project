@@ -1,19 +1,19 @@
 # sql-sales-analysis-project
 
-## Project Overview
+## >> Project Overview
 **This project analyzes retail transaction data using SQL Server to uncover actionable business insights related to revenue growth, profitability, customer segmentation, discount strategy, and product performance.
 The analysis goes beyond basic reporting by leveraging advanced SQL techniques such as Common Table Expressions (CTEs), subqueries, and window functions to solve real business problems.**
 ---
 
-## Tool
+## >> Tool
 - SQL Server
 ---
 
-## Dataset
+## >> Dataset
 Sample Superstore retail dataset containing 10,000+ entries across multiple years, regions, product categories, and customer segments.
 ---
 
-## Business Objectives
+## >> Business Objectives
 - Identify top-performing regions, categories, and products
 - Detect loss-making products and markets
 - Analyze the impact of discounts on profitability
@@ -22,7 +22,7 @@ Sample Superstore retail dataset containing 10,000+ entries across multiple year
 - Recommend data-driven business strategies
 ---
 
-## Advanced SQL Concepts Used
+## >> Advanced SQL Concepts Used
 - Common Table Expressions (CTEs)
 - Window Functions (`RANK`, `ROW_NUMBER`, `LAG`)
 - Aggregate Functions
@@ -31,7 +31,7 @@ Sample Superstore retail dataset containing 10,000+ entries across multiple year
 - Customer Segmentation
 ---
 
-## Key Insights
+## >> Key Insights
 - United States significantly outperformed Canada in revenue and profit.
 - Technology category delivered the highest profit margin.
 - Furniture generated high sales but lowest profitability.
@@ -41,7 +41,7 @@ Sample Superstore retail dataset containing 10,000+ entries across multiple year
 - Revenue grew steadily from 2023 to 2026.
 ---
 
-## Business Recommendations
+## >> Business Recommendations
 - Limit routine discounts above 20%.
 - Reassess pricing/cost structure for Furniture products.
 - Expand focus on Technology products.
